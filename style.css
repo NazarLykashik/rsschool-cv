@@ -20,7 +20,7 @@ html{
     scroll-behavior: smooth;
 }
 .section-item a {
-    color: #829985;
+    color: #414042;
     text-decoration: none;  
     transition: color 0.5s;
 }
@@ -36,7 +36,6 @@ color: #4d2323;
 .container{
     max-width: 1440px;
     margin: 0 auto;
-    background-color: aliceblue;
 }
 
 .nav-list{
@@ -62,18 +61,15 @@ color: #4d2323;
 .main-container{
     width: 1440px;
     margin: 0 auto;
-    border: solid;
 }
 .left-container{
     font-family: 'Lato' sans-serif;
     float: left;
     width: 35%;
-    border: solid;
 }
 .right-container{
     margin-left: 35%;
     padding: 55px 40px 35px 100px;
-    border: solid;
 }
 .profile-photo{
     width: 100%;
